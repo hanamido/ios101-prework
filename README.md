@@ -2,7 +2,7 @@
 
 Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps
 * Youtube
-* Viewing videos in Light/Dark Mode
+  * Viewing videos in Light/Dark Mode
 * Preview of videos
 * Facebook
 * Amazon
